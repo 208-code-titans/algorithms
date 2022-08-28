@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbf783cc-333a-4ada-a9c7-8c063630812f" name="Changes" comment="update">
+    <list default="true" id="dbf783cc-333a-4ada-a9c7-8c063630812f" name="Changes" comment="completed application">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
     </list>
@@ -55,7 +56,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5b499962-a244-4bfe-9c79-7fe78dfa4e0a" name="Changes" comment="" />
+      <changelist id="dbf783cc-333a-4ada-a9c7-8c063630812f" name="Changes" comment="completed application" />
       <created>1659941420974</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -63,6 +64,7 @@
       <workItem from="1659941422381" duration="6744000" />
       <workItem from="1660459446408" duration="675000" />
       <workItem from="1660464108079" duration="4206000" />
+      <workItem from="1660829142751" duration="4345000" />
     </task>
     <task id="LOCAL-00001" summary="created application">
       <created>1659941457990</created>
@@ -176,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660512544678</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="completed application">
+      <created>1660513029814</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1660513029814</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +216,7 @@
     <MESSAGE value="corrected quicksort" />
     <MESSAGE value="corrected bubble sort" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="completed application" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed application" />
   </component>
 </project>

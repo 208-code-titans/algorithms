@@ -72,7 +72,7 @@ public class Sort {
                 System.out.println();
         }
 
-        static void heapify(int a[], int n, int i)
+        static void heapify(int[] a, int n, int i)
         {
                 int largest = i; // Initialize largest as root
                 int left = 2 * i + 1; // left child

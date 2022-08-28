@@ -12,7 +12,7 @@ public class Main {
                 Hello, welcome to the Algorithm Tester!
                 =======================================
                 
-                What type of algorithm would you like to implement
+                Enter the number associated with the algorithm you want to perform:
                 ( 1 ) Search Algorithms
                 ( 2 ) Sorting Algorithms
                 
@@ -23,6 +23,7 @@ public class Main {
                 case 1 -> {
                     System.out.println("""
                             Here are the available Search Algorithms.
+                            Enter the number associated with the algorithm you want to perform:
                             ( 1 ) Linear Search
                             ( 2 ) Binary Search
                             """);
@@ -46,7 +47,7 @@ public class Main {
                             }
                         }
                         case 2 -> {
-                            System.out.println("\nEnter 10 numbers separated with ONLY a space");
+                            System.out.println("Binary Search\nEnter 10 numbers separated with ONLY a space");
                             int[] numbers = new int[10];
                             int j;
                             int last = numbers.length - 1;
@@ -68,7 +69,8 @@ public class Main {
                 }
                 case 2 -> {
                     System.out.println("""
-                            Here are the available Sorting Algorithms
+                            Here are the available Sorting Algorithms.
+                            Enter the number associated with the algorithm you want to perform:
                                                 
                             ( 1 ) Heap Sort
                             ( 2 ) Merge Sort
@@ -76,7 +78,7 @@ public class Main {
                             ( 4 ) Quick Sort
                             ( 5 ) Bubble Sort
                             ( 6 ) Insertion Sort
-                            ( 7 ) Radix Sort
+                            ( 7 ) Radix Sort 
                             """);
                     int sortOption = sc.nextInt();
                     switch (sortOption) {
